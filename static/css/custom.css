@@ -1,0 +1,53 @@
+section {
+    width: 100%;
+}
+
+.columns {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    overflow: visible;
+}
+
+.columns-50 .column {
+    flex: 0 0 50%;
+}
+
+.column-image {
+   display: block; 
+   width: 100%;
+   height: auto;
+   cursor: pointer;
+}
+
+.column-image:hover {
+    opacity: .8;
+}
+
+.column {
+    display: flex;
+    flex-direction: column;
+    flex: 0 0 33%;
+    padding-right: 2rem;
+    margin-bottom: 2rem;
+}
+
+.modal {
+    display: none;
+    position: fixed;
+    z-index: 1;
+    padding-top: 10rem;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0,0,0,0.9);
+}
+
+.modal-image {
+    margin: auto;
+    display: block;
+    height: 80%;
+    z-index: 2;
+}

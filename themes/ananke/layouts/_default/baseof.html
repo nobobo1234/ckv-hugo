@@ -54,5 +54,8 @@
     </main>
     {{ block "footer" . }}{{ partialCached "site-footer.html" . }}{{ end }}
     {{ block "scripts" . }}{{ partialCached "site-scripts.html" . }}{{ end }}
+    {{ range .Site.Params.custom_js }}
+      <script src="{{ relURL ($.Site.BaseURL) }}{{ . }}" ></script>
+    {{ end }}
   </body>
 </html>

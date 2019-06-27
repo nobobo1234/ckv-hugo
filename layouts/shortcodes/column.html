@@ -1,0 +1,6 @@
+<div class="column">
+    {{ with .Get "src" }}
+    <img class="column-image" src="{{.}}">
+    {{ end }}
+    {{ .Inner }}
+</div>
