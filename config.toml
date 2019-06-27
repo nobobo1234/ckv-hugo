@@ -1,5 +1,5 @@
 title = "Noah's Kunstautobiografie"
-# baseURL = "https://nobobo1234.github.io/"
+baseURL = "https://ckv-noah.netlify.com"
 languageCode = "nl"
 theme = "ananke"
 staticDir = ["static", "static/images/"]
