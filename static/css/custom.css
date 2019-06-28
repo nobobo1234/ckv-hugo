@@ -1,5 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Inconsolata&display=swap');
+
 section {
     width: 100%;
+}
+
+.inconsolata {
+    font-family: 'Inconsolata', monospace;
+}
+
+.measure-wide-xl {
+    max-width: 96em;
 }
 
 .columns {

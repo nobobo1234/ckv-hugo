@@ -29,4 +29,5 @@ Paginate = 6 # this is set low for demonstrating with dummy content. Set to a hi
   featured_image = "images/header.jpg"
   recent_posts_number = 2
   custom_css = ["css/custom.css"]
-  custom_js = ["js/script.js"]
+  custom_js = ["js/typeit.min.js","js/script.js"]
+  body_classes = "inconsolata bg-near-white"
