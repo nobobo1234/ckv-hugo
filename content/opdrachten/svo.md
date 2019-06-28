@@ -1,7 +1,7 @@
 ---
 title: Soldaat van Oranje
 description: Over de musical De Soldaat van Oranje
-featured_image: /images/svo.jpg
+date: 2018-12-04T21:36:36+02:00
 ---
 ## In de les
 _Waar gaat het verhaal over?_  
