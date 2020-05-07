@@ -13,5 +13,5 @@ Zoals te zien is in mijn pagina over [filmmuziek](/filmmuziek) ben ik een grote 
 {{< columns 50 >}}
 {{% column % }}
 {{< youtube id="X1DRDcGlSsE" >}}
-{{% column % }}
+{{% /column % }}
 {{< /columns >}}
