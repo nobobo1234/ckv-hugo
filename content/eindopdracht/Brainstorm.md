@@ -14,4 +14,19 @@ Zoals te zien is in mijn pagina over [filmmuziek](/filmmuziek) ben ik een grote 
 {{< column >}}
 {{< youtube id="X1DRDcGlSsE" >}}
 {{< /column >}}
+{{< column >}}
+{{< youtube id="91sFlP6aa5Q" >}}
+{{< /column >}}
+{{< column >}}
+{{< youtube id="xyY4IZ3JDFE" >}}
+{{< /column >}}
+{{< column >}}
+{{< youtube id="o_Ay_iDRAbc" >}}
+{{< /column >}}
+{{< column >}}
+{{< youtube id="zE-qxNVoUSo" >}}
+{{< /column >}}
+{{< column >}}
+{{< youtube id="RxabLA7UQ9k" >}}
+{{< /column >}}
 {{< /columns >}}
