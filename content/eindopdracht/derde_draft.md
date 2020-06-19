@@ -1,0 +1,9 @@
+---
+title: Derde draft
+description: De derde versie van het liedje
+date: 2020-05-15T12:38:00+02:00
+---
+Voor de derde versie van het liedje heb ik een heel aantal dingen veranderd. Allereerst heb ik de arpeggiolijntjes weggehaald vanaf maat 13 en maat 61. Dat waren die kringeltjes die betekenen dat ik de noten heel snel achter elkaar moet spelen. Dat klonk niet zo goed. Daarnaast heb ik vanaf maat 21 een patroon voor de linkerhand toegevoegd die ik mooi vond contrasteren met het patroon daarvoor, het is immers het tegenovergestelde. Hetzelfde linkerhandpatroon heb ik toegepast vanaf maat 53. Daarnaast heb ik vanaf maat 57 ook een ander patroon toegevoegd die ik mooi vond klinken bij de bovenhand. Ook heb ik de opbouw in de laatste maat iets minder sterk gemaakt. Daarnaast is de grootste verandering vanaf maat 37. Daar heb ik nieuw arpeggios toegevoegd die ik daar mooi vond klinken. De eerste 4 maten is precies hetzelfde als het patroon daarvoor maar worden de akkoorden van de linkerhand los van elkaar gespeeld en wordt er op het einde een soort afdaling gemaakt. Ook wordt het wel een octaaf lager gespeeld voor de afwisseling. Het patroon daarnaast is een G - C - G patroon die wordt gespeeld afgewisseld door een G - A - G patroon omdat dat op de laatste twee maten mooier klinkt. Precies weer met dezelfde afdaling. Daarnaast heb ik in de acht opeenvolgende maten een soort tussenmelodie gedaan in Rubato, wat een soort vrij tempo is. Daarna spring ik weer over na het normale ritme van het liedje. De bladmuziek is hieronder te vinden.
+{{< pdf "https://noahvb.nl/music/noahssong.pdf" >}}
+Hieronder is een voorbeeld van het liedje te vinden. Omdat dit voorbeeld computergegenereerd is zal dit niet perfect klinken, zoals de Rubato die niet lukt, de tempoveranderingen en het pedaal. De laatste versie zal een versie gespeeld door mij zijn die een heel stuk mooier klinkt :)
+{{< soundcloud 843240847 >}}

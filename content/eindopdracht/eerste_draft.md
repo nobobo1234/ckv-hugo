@@ -10,5 +10,5 @@ Daarna moest er een melodie komen. Ik heb verschillende dingen geprobeerd zoals 
 Toen ben ik achter een piano gaan zitten en heb ik een stuk geïmproviseerd met deze melodie en de akkoordenprogressie. Daaruit is dit gekomen:
 {{< youtube id="qmIkv0k_uu0"  >}}
 Ik heb dit vervolgens omgezet in bladmuziek en het iets 'opgeschoond'. Daaruit kwam het volgende: 
-{{< gdocs "https://drive.google.com/viewerng/viewer?embedded=true&url=https://noahvb.nl/music/noahsliedje.pdf" >}}
+{{< pdf "https://noahvb.nl/music/noahsliedje.pdf" >}}
 {{< soundcloud 788333122 >}}
